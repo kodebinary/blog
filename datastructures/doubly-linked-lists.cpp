@@ -1,3 +1,7 @@
+/**
+*	Detailed explanation of this doubly linked list program
+*	can found at https://kodebinary.com/doubly-linked-list
+*/
 #include <iostream>
 
 using namespace std;

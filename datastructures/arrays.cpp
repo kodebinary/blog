@@ -1,3 +1,8 @@
+/**
+* 	Detailed explanation of this code can be
+*	found at https://kodebinary.com/arrays
+**/
+
 #include <iostream>
 
 using namespace std;
